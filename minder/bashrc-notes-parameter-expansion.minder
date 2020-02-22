@@ -1,0 +1,357 @@
+<?xml version="1.0"?>
+<minder>
+  <theme name="Solarized Light" index="1"/>
+  <styles>
+    <style level="0" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false" connectiondash="solid" connectionwidth="4" connectionarrow="none" connectionpadding="4" connectionfont="Sans 10"/>
+    <style level="1" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false" connectiondash="solid" connectionwidth="4" connectionarrow="none" connectionpadding="4" connectionfont="Sans 10"/>
+    <style level="2" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false" connectiondash="solid" connectionwidth="4" connectionarrow="none" connectionpadding="4" connectionfont="Sans 10"/>
+    <style level="3" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false" connectiondash="solid" connectionwidth="4" connectionarrow="none" connectionpadding="4" connectionfont="Sans 10"/>
+    <style level="4" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false" connectiondash="solid" connectionwidth="4" connectionarrow="none" connectionpadding="4" connectionfont="Sans 10"/>
+    <style level="5" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false" connectiondash="solid" connectionwidth="4" connectionarrow="none" connectionpadding="4" connectionfont="Sans 10"/>
+    <style level="6" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false" connectiondash="solid" connectionwidth="4" connectionarrow="none" connectionpadding="4" connectionfont="Sans 10"/>
+    <style level="7" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false" connectiondash="solid" connectionwidth="4" connectionarrow="none" connectionpadding="4" connectionfont="Sans 10"/>
+    <style level="8" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false" connectiondash="solid" connectionwidth="4" connectionarrow="none" connectionpadding="4" connectionfont="Sans 10"/>
+    <style level="9" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false" connectiondash="solid" connectionwidth="4" connectionarrow="none" connectionpadding="4" connectionfont="Sans 10"/>
+    <style level="10" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false" connectiondash="solid" connectionwidth="4" connectionarrow="none" connectionpadding="4" connectionfont="Sans 10"/>
+  </styles>
+  <drawarea x="-742.19559224446618" y="-660.39110310872388" scale="0.75"/>
+  <images/>
+  <nodes>
+    <node id="2" posx="896.49719746907556" posy="579.8951314290365" maxwidth="200" width="215" height="56" side="left" fold="false" treesize="914" layout="Horizontal">
+      <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+      <formatting/>
+      <nodename>PARAMETER EXPANSION</nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="34" posx="657.49719746907545" posy="178.8951314290365" maxwidth="200" width="139" height="56" side="left" fold="false" treesize="112" color="#cb4b16" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+          <formatting/>
+          <nodename>simple usage</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="36" posx="472.49719746907545" posy="150.8951314290365" maxwidth="200" width="85" height="56" side="left" fold="false" treesize="56" color="#cb4b16" layout="Horizontal">
+              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>$PARA</nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="38" posx="452.49719746907545" posy="206.8951314290365" maxwidth="200" width="105" height="56" side="left" fold="false" treesize="56" color="#cb4b16" layout="Horizontal">
+              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>${PARA}</nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="68" posx="711.49719746907556" posy="318.8951314290365" maxwidth="200" width="85" height="56" side="left" fold="false" treesize="168" color="#6c71c4" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+          <formatting/>
+          <nodename>arrays</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="70" posx="491.49719746907545" posy="262.8951314290365" maxwidth="200" width="120" height="56" side="left" fold="false" treesize="56" color="#6c71c4" layout="Horizontal">
+              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>${ARR[5]}</nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="72" posx="493.49719746907545" posy="318.8951314290365" maxwidth="200" width="118" height="56" side="left" fold="false" treesize="56" color="#6c71c4" layout="Horizontal">
+              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>${ARR[*]}</nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="74" posx="486.49719746907545" posy="374.8951314290365" maxwidth="200" width="125" height="56" side="left" fold="false" treesize="56" color="#6c71c4" layout="Horizontal">
+              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>${ARR[@]}</nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="92" posx="678.49719746907556" posy="430.8951314290365" maxwidth="200" width="118" height="56" side="left" fold="false" treesize="56" color="#d33682" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+          <formatting/>
+          <nodename>indirection</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="94" posx="467.49719746907545" posy="430.8951314290365" maxwidth="200" width="111" height="56" side="left" fold="false" treesize="56" color="#d33682" layout="Horizontal">
+              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>${!PARA}</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="96" posx="138.49719746907545" posy="430.8951314290365" maxwidth="200" width="229" height="56" side="left" fold="false" treesize="56" color="#d33682" layout="Horizontal">
+                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>doesn't work for all cases</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="88" posx="660.49719746907545" posy="486.8951314290365" maxwidth="200" width="136" height="56" side="left" fold="false" treesize="56" color="#c113b2" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+          <formatting/>
+          <nodename>string length</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="90" posx="442.49719746907545" posy="486.8951314290365" maxwidth="200" width="118" height="56" side="left" fold="false" treesize="56" color="#c113b2" layout="Horizontal">
+              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>${#PARA}</nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="46" posx="620.49719746907545" posy="663.89513142903638" maxwidth="200" width="176" height="56" side="left" fold="false" treesize="298" color="#4dc2f5" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+          <formatting/>
+          <nodename>substring removal</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="48" posx="405.49719746907545" posy="542.8951314290365" maxwidth="200" width="115" height="56" side="left" fold="false" treesize="56" color="#4dc2f5" layout="Horizontal">
+              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>single use</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="50" posx="140.49719746907545" posy="542.8951314290365" maxwidth="200" width="165" height="56" side="left" fold="false" treesize="56" color="#4dc2f5" layout="Horizontal">
+                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>single occurence</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="52" posx="398.49719746907545" posy="598.8951314290365" maxwidth="200" width="122" height="56" side="left" fold="false" treesize="56" color="#4dc2f5" layout="Horizontal">
+              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>double use</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="54" posx="161.49719746907545" posy="598.8951314290365" maxwidth="200" width="137" height="56" side="left" fold="false" treesize="56" color="#4dc2f5" layout="Horizontal">
+                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>all occurence</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="56" posx="365.49719746907545" posy="654.89513142903638" maxwidth="200" width="155" height="56" side="left" fold="false" treesize="56" color="#4dc2f5" layout="Horizontal">
+              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>from beginning</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="58" posx="82.497197469075445" posy="654.89513142903638" maxwidth="200" width="183" height="56" side="left" fold="false" treesize="56" color="#4dc2f5" layout="Horizontal">
+                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>${PARA#PATTERN}</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="60" posx="413.49719746907545" posy="710.89513142903627" maxwidth="200" width="107" height="56" side="left" fold="false" treesize="56" color="#4dc2f5" layout="Horizontal">
+              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>from end</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="62" posx="129.49719746907545" posy="710.89513142903627" maxwidth="200" width="184" height="56" side="left" fold="false" treesize="56" color="#4dc2f5" layout="Horizontal">
+                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>${PARA%PATTERN}</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="64" posx="447.49719746907545" posy="775.89513142903616" maxwidth="200" width="73" height="56" side="left" fold="false" treesize="74" color="#4dc2f5" layout="Horizontal">
+              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>uses</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="66" posx="122.49719746907545" posy="766.89513142903616" maxwidth="200" width="225" height="74" side="left" fold="false" treesize="74" color="#4dc2f5" layout="Horizontal">
+                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>useful to extract parts of names, eg: files, dirs </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="76" posx="603.49719746907545" posy="868.89513142903593" maxwidth="200" width="193" height="56" side="left" fold="false" treesize="112" color="#ff2727" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+          <formatting/>
+          <nodename>substring expansion</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="78" posx="335.49719746907545" posy="840.89513142903604" maxwidth="200" width="168" height="56" side="left" fold="false" treesize="56" color="#ff2727" layout="Horizontal">
+              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>${PARA:OFFSET}</nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="80" posx="304.49719746907545" posy="896.89513142903547" maxwidth="200" width="199" height="56" side="left" fold="false" treesize="56" color="#ff2727" layout="Horizontal">
+              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>${PARA:OFFSET:LEN}</nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="24" posx="614.49719746907545" posy="980.89513142903581" maxwidth="200" width="182" height="56" side="left" fold="false" treesize="112" color="#3ddc12" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+          <formatting/>
+          <nodename>search and replace</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="26" posx="278.49719746907545" posy="952.89513142903593" maxwidth="200" width="236" height="56" side="left" fold="false" treesize="56" color="#3ddc12" layout="Horizontal">
+              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>${PARA/PATTERN/STRING}</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="28" posx="13.497197469075445" posy="952.89513142903593" maxwidth="200" width="165" height="56" side="left" fold="false" treesize="56" color="#3ddc12" layout="Horizontal">
+                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>single occurence</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="30" posx="273.49719746907545" posy="1008.8951314290359" maxwidth="206.3004150390625" width="241" height="56" side="left" fold="false" treesize="56" color="#3ddc12" layout="Horizontal">
+              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>${PARA//PATTERN/STRING}</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="32" posx="36.497197469075445" posy="1008.8951314290359" maxwidth="200" width="137" height="56" side="left" fold="false" treesize="56" color="#3ddc12" layout="Horizontal">
+                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>all occurence</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="14" posx="1211.4971974690754" posy="393.8951314290365" maxwidth="200" width="192" height="56" side="right" fold="false" treesize="166" color="#268bd2" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+          <formatting/>
+          <nodename>using default values</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="16" posx="1503.4971974690754" posy="347.8951314290365" maxwidth="200" width="141" height="56" side="right" fold="false" treesize="74" color="#268bd2" layout="Horizontal">
+              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>${PARA:-VAL}</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="18" posx="1744.4971974690754" posy="338.8951314290365" maxwidth="200" width="224" height="74" side="right" fold="false" treesize="74" color="#268bd2" layout="Horizontal">
+                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>default value is used if $PARA is unset or empty</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="20" posx="1503.4971974690754" posy="430.8951314290365" maxwidth="200" width="136" height="56" side="right" fold="false" treesize="92" color="#268bd2" layout="Horizontal">
+              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>${PARA-VAL}</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="22" posx="1739.4971974690754" posy="412.8951314290365" maxwidth="200" width="216" height="92" side="right" fold="false" treesize="92" color="#268bd2" layout="Horizontal">
+                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>default value is used if $PARA is unset, but not empty</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="40" posx="1211.4971974690754" posy="532.8951314290365" maxwidth="200" width="183" height="56" side="right" fold="false" treesize="112" color="#dc322f" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+          <formatting/>
+          <nodename>asign default value</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="42" posx="1494.4971974690754" posy="504.8951314290365" maxwidth="200" width="150" height="56" side="right" fold="false" treesize="56" color="#dc322f" layout="Horizontal">
+              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>${PARA:=VAL}</nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="44" posx="1494.4971974690754" posy="560.8951314290365" maxwidth="200" width="145" height="56" side="right" fold="false" treesize="56" color="#dc322f" layout="Horizontal">
+              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>${PARA=VAL}</nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="4" posx="1211.4971974690754" posy="662.89513142903638" maxwidth="200" width="199" height="56" side="right" fold="false" treesize="148" color="#859900" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+          <formatting/>
+          <nodename>using alternate value</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="6" posx="1510.4971974690754" posy="625.8951314290365" maxwidth="200" width="150" height="56" side="right" fold="false" treesize="74" color="#859900" layout="Horizontal">
+              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>${PARA:+VAL}</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="8" posx="1760.497197469075" posy="616.8951314290365" maxwidth="200" width="223" height="74" side="right" fold="false" treesize="74" color="#859900" layout="Horizontal">
+                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>expands to VAL if empty or unset</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="10" posx="1510.4971974690754" posy="699.89513142903638" maxwidth="200" width="145" height="56" side="right" fold="false" treesize="74" color="#859900" layout="Horizontal">
+              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>${PARA+VAL}</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="12" posx="1755.4971974690754" posy="690.89513142903638" maxwidth="200" width="223" height="74" side="right" fold="false" treesize="74" color="#859900" layout="Horizontal">
+                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>expands to nothing is empty, and VAL is unset</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="82" posx="1211.4971974690754" posy="792.89513142903616" maxwidth="200" width="194" height="56" side="right" fold="false" treesize="112" color="#ffba00" layout="Horizontal">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+          <formatting/>
+          <nodename>display custom error</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="84" posx="1505.4971974690754" posy="764.89513142903616" maxwidth="200" width="147" height="56" side="right" fold="false" treesize="56" color="#ffba00" layout="Horizontal">
+              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>${PARA:?ERR}</nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="86" posx="1505.4971974690754" posy="820.89513142903616" maxwidth="200" width="142" height="56" side="right" fold="false" treesize="56" color="#ffba00" layout="Horizontal">
+              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="true" nodemargin="9" nodepadding="10" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>${PARA?ERR}</nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+</minder>
