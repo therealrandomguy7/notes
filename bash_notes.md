@@ -36,9 +36,6 @@
 - although, this can be done in multiple line, doing it one line is awesome!
 - [unix stackexchange link](https://unix.stackexchange.com/questions/568407/how-to-insert-multi-line-text-which-is-the-o-p-from-a-command-to-the-beginning) of the post
 
-#### Using sed to put ASCII patterns intro rc files
- - to be done
-
 #### Mindmaps
 - `bash invocation` [mindmap](./minder/bash-invocation-notes.minder)
 - notes on `sed` [mindmap](./minder/sed-notes.minder)
