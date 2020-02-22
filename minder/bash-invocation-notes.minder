@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<minder>
+  <theme name="Solarized Light" index="0"/>
+  <styles>
+    <style level="0" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="1" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="2" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="3" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="4" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="5" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="6" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="7" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="8" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="9" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="10" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+  </styles>
+  <drawarea x="-141.25748697916663" y="-511.59013875325525" scale="0.75"/>
+  <images/>
+  <nodes>
+    <node id="1" posx="119.25748697916663" posy="501.59013875325525" maxwidth="200" width="93" height="58" side="left" fold="false" treesize="590" layout="To right">
+      <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true"/>
+      <formatting/>
+      <nodename>bash</nodename>
+      <nodenote>For root users, the invocation files are inside the home folder for root, i.e, /root/</nodenote>
+      <nodes>
+        <node id="3" posx="296.25748697916663" posy="501.59013875325525" maxwidth="200" width="118" height="58" side="right" fold="false" treesize="590" color="#2aa198" layout="To right">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true"/>
+          <formatting/>
+          <nodename>invocation</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="5" posx="514.25748697916652" posy="300.59013875325525" maxwidth="200" width="77" height="58" side="right" fold="false" treesize="188" color="#dc322f" layout="To right">
+              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>login</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="7" posx="691.25748697916652" posy="291.59013875325525" maxwidth="123.92376708984375" width="154" height="76" side="right" fold="false" treesize="188" color="#dc322f" layout="To right">
+                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>interactive and non-interactive</nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="9" posx="945.25748697916652" posy="253.59013875325525" maxwidth="200" width="204" height="76" side="right" fold="false" treesize="112" color="#dc322f" layout="To right">
+                      <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>read from(in order), if exists</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="11" posx="1249.2574869791665" posy="235.59013875325525" maxwidth="200" width="218" height="112" side="right" fold="false" treesize="112" color="#dc322f" layout="To right">
+                          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true"/>
+                          <formatting/>
+                          <nodename>   /etc/profile &gt; ~/.bash_profile &gt; ~/.bash_login &gt;            ~/.profile</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                    <node id="19" posx="945.25748697916652" posy="347.59013875325525" maxwidth="200" width="201" height="76" side="right" fold="false" treesize="76" color="#dc322f" layout="To right">
+                      <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>to inhibit the reading behaviour</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="21" posx="1246.2574869791665" posy="356.59013875325525" maxwidth="200" width="171" height="58" side="right" fold="false" treesize="58" color="#dc322f" layout="To right">
+                          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true"/>
+                          <formatting/>
+                          <nodename>( --noprofile ) flag</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                  </nodes>
+                </node>
+              </nodes>
+            </node>
+            <node id="23" posx="514.25748697916652" posy="537.59013875325525" maxwidth="200" width="111" height="58" side="right" fold="false" treesize="286" color="#268bd2" layout="To right">
+              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>non-login</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="25" posx="725.25748697916652" posy="490.59013875325525" maxwidth="200" width="120" height="58" side="right" fold="false" treesize="192" color="#268bd2" layout="To right">
+                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>interactive</nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="27" posx="945.25748697916652" posy="461.59013875325525" maxwidth="200" width="114" height="58" side="right" fold="false" treesize="134" color="#268bd2" layout="To right">
+                      <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>read from</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="29" posx="1159.2574869791665" posy="423.59013875325525" maxwidth="200" width="93" height="58" side="right" fold="false" treesize="58" color="#268bd2" layout="To right">
+                          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true"/>
+                          <formatting/>
+                          <nodename>default</nodename>
+                          <nodenote></nodenote>
+                          <nodes>
+                            <node id="31" posx="1352.2574869791665" posy="423.59013875325525" maxwidth="200" width="114" height="58" side="right" fold="false" treesize="58" color="#268bd2" layout="To right">
+                              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true"/>
+                              <formatting/>
+                              <nodename>~/.bashrc</nodename>
+                              <nodenote></nodenote>
+                            </node>
+                          </nodes>
+                        </node>
+                        <node id="33" posx="1159.2574869791665" posy="490.59013875325525" maxwidth="200" width="96" height="58" side="right" fold="false" treesize="76" color="#268bd2" layout="To right">
+                          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true"/>
+                          <formatting/>
+                          <nodename>custom</nodename>
+                          <nodenote></nodenote>
+                          <nodes>
+                            <node id="35" posx="1355.2574869791665" posy="481.59013875325525" maxwidth="200" width="179" height="76" side="right" fold="false" treesize="76" color="#268bd2" layout="To right">
+                              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true"/>
+                              <formatting/>
+                              <nodename>using (--rcfile) and custom file</nodename>
+                              <nodenote></nodenote>
+                            </node>
+                          </nodes>
+                        </node>
+                      </nodes>
+                    </node>
+                    <node id="37" posx="945.25748697916652" posy="557.59013875325525" maxwidth="200" width="88" height="58" side="right" fold="false" treesize="58" color="#268bd2" layout="To right">
+                      <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>inhibit</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="39" posx="1133.2574869791665" posy="557.59013875325525" maxwidth="200" width="138" height="58" side="right" fold="false" treesize="58" color="#268bd2" layout="To right">
+                          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true"/>
+                          <formatting/>
+                          <nodename>( --norc ) flag</nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                  </nodes>
+                </node>
+                <node id="41" posx="725.25748697916652" posy="633.59013875325525" maxwidth="200" width="154" height="58" side="right" fold="false" treesize="94" color="#268bd2" layout="To right">
+                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>non-interactive</nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="43" posx="979.25748697916652" posy="624.59013875325525" maxwidth="200" width="220" height="76" side="right" fold="false" treesize="94" color="#268bd2" layout="To right">
+                      <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>looks in the enviroment for variable BASH_ENV</nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="45" posx="1299.2574869791665" posy="615.59013875325525" maxwidth="200" width="221" height="94" side="right" fold="false" treesize="94" color="#268bd2" layout="To right">
+                          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true"/>
+                          <formatting/>
+                          <nodename>expands the BASH_ENV variable, uses the value as the name of a file</nodename>
+                          <nodenote></nodenote>
+                          <nodes>
+                            <node id="47" posx="1620.2574869791665" posy="624.59013875325525" maxwidth="200" width="178" height="76" side="right" fold="false" treesize="76" color="#268bd2" layout="To right">
+                              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true"/>
+                              <formatting/>
+                              <nodename>reads the file, and executes</nodename>
+                              <nodenote></nodenote>
+                            </node>
+                          </nodes>
+                        </node>
+                      </nodes>
+                    </node>
+                  </nodes>
+                </node>
+              </nodes>
+            </node>
+            <node id="49" posx="514.25748697916652" posy="738.59013875325525" maxwidth="200" width="88" height="58" side="right" fold="false" treesize="116" color="#41bf3f" layout="To right">
+              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true"/>
+              <formatting/>
+              <nodename>logout</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="51" posx="702.25748697916652" posy="738.59013875325525" maxwidth="200" width="190" height="58" side="right" fold="false" treesize="116" color="#41bf3f" layout="To right">
+                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>reads from, if exists</nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="53" posx="992.25748697916652" posy="709.59013875325525" maxwidth="200" width="208" height="58" side="right" fold="false" treesize="58" color="#41bf3f" layout="To right">
+                      <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>/etc/bash.bash_logout</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="55" posx="992.25748697916652" posy="767.59013875325525" maxwidth="200" width="156" height="58" side="right" fold="false" treesize="58" color="#41bf3f" layout="To right">
+                      <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true"/>
+                      <formatting/>
+                      <nodename>~/.bash_logout</nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+</minder>
